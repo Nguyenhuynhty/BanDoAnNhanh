@@ -57,27 +57,52 @@ Có dữ liệu mẫu để phục vụ hiển thị giao diện
 WEB_BAN_DO_AN ├── src/main/java │ ├── controller │ ├── entity │ ├── repository │ └── WebBanDoAnApplication.java ├── src/main/resources │ ├── templates │ │ ├── home │ │ ├── product │ │ ├── admin │ │ └── auth │ ├── static │ │ ├── css │ │ └── images │ └── application.properties ├── database.sql └── README.md
 
 👥 Phân công công việc nhóm
+
 Thành viên 1 – Backend & Cơ sở dữ liệu
+
 Thiết lập project Spring Boot
+
 Thiết kế và xây dựng CSDL (Database)
+
 Kết nối Spring Boot với Database
+
 Xây dựng API hiển thị sản phẩm (READ)
+
+
 Thành viên 2 – Backend chức năng
+
 Xây dựng API thêm / sửa / xóa sản phẩm (CRUD)
+
 Xây dựng API đăng nhập / đăng ký
+
 Xử lý logic giỏ hàng (Cart)
+
 Kiểm tra và test API
+
+
 Thành viên 3 – Frontend người dùng
+
 Thiết kế giao diện Home
+
 Thiết kế giao diện Product
+
 Thiết kế giao diện Cart
+
 Tích hợp dữ liệu từ Backend vào UI
+
+
 Thành viên 4 – Frontend Admin & Báo cáo
+
 Thiết kế giao diện Admin Dashboard
+
 Trang Login
+
 Thiết kế giao diện quản lý sản phẩm (Admin)
+
 Viết báo cáo và tổng hợp dự án
+
 Kiểm tra Responsive giao diện
+
 
 📊 Quản lý tiến độ
 Sử dụng Trello để quản lý công việc
