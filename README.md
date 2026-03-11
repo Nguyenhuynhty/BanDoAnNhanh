@@ -1,7 +1,7 @@
 # BanDoAnNhanh
 📌 Giới thiệu
 Dự án WEB BÁN ĐỒ ĂN là một website bán đồ ăn nhanh lấy cảm hứng từ các thương hiệu như KFC, Domino’s, Jollibee.
-Dự án được thực hiện trong khuôn khổ Assignment môn Lập trình Java 6 – FPT Polytechnic.
+Dự án được thực hiện trong khuôn khổ Assignment môn Lập trình Quản Lý Dự Án Agile – FPT Polytechnic.
 
 Ở giai đoạn hiện tại, nhóm tập trung vào:
 
@@ -100,4 +100,4 @@ Dự án hiện tại tập trung vào giao diện + hiển thị dữ liệu
 Backend nghiệp vụ sẽ được triển khai sau
 Mã nguồn được tổ chức rõ ràng, dễ mở rộng
 
-✨ Dự án phục vụ mục đích học tập – Assignment Java 6
+✨ Dự án phục vụ mục đích học tập – Assignment Quản Lý Dự An Agile
